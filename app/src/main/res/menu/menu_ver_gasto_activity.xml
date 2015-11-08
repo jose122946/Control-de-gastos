@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.beto.controldegastos.VerGasto_activity">
+    <item android:id="@+id/agrega2"
+        android:icon="@drawable/ic_action_content_add"
+        android:title="Agregar"
+        android:showAsAction="ifRoom"
+        ></item>
+</menu>

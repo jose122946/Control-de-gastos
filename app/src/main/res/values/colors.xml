@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="verdeprimary" type="color">#07876e</item>
+    <item name="Verdeprimarydark" type="color">#075e54</item>
+    <item name="blanco" type="color">#ffffff</item>
+
+</resources>

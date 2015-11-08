@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Control de Gastos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registra_gasto_activity">RegistraGasto_activity</string>
+    <string name="title_activity_ver_gasto_activity">VerGasto_activity</string>
+    <string name="vergastos">Gastos</string>
+    <string name="nuevogasto">Nuevo gasto</string>
+
+</resources>
